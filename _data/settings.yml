@@ -29,23 +29,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.viewgreaterdenverareahomes.com/sell/sellyourhome
+  first_CTA_URL: https://bit.ly/2TPlPDj
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.viewgreaterdenverareahomes.com/search
+  second_CTA_URL: https://bit.ly/2BH2VaF
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Denver Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.viewgreaterdenverareahomes.com/sell/sellyourhome
+    CTA_url: https://bit.ly/2TPlPDj
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Denver Home?"
     CTA_text2: "Search the entire MLS for your Denver home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.viewgreaterdenverareahomes.com/search
+    CTA_url2: https://bit.ly/2BH2VaF
 
 lender:
   show_section: false
