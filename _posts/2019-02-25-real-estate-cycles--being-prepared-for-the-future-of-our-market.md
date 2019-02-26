@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Real Estate Cycles & Being Prepared for the Future of Our Market
-date: 2019-02-25 15:02:40
+date: 2019-02-25 15:02:00
 tags:
   - Real Estate
 excerpt: >-
-  If your goals for this year include investing in real estate, my word of
-  caution is to be prepared for any and all possibilities that could come our
-  way.
+  Historically speaking, what can real estate cycles tell us about where our
+  market is headed for 2019? Find out in today’s message.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Steven+Pilkington/The+Bogar+Pilkington+Group+_+Real+Estate+Cycles+%26+Being+Prepared+for+the+Future+of+Our+Market.mp4
 pullquote: >-
-  Historically speaking, what can real estate cycles tell us about where our
-  market is headed for 2019? Find out in today’s message.
+  If your goals for this year include investing in real estate, my word of
+  caution is to be prepared for any and all possibilities that could come our
+  way.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -34,7 +34,7 @@ In short, this spelled good news for almost every homeowner in 2018. Now, let’
 
 “How can both outcomes potentially be good news?” you may ask.&nbsp;
 
-Well, **real estate cycles, and those cycles are patterned on historical numbers.** Though we never know what will happen for sure, it gives us a good idea of what to look for. Real estate cycles run through four main phases; when a new cycle begins, the first phase will start out on a “top” and finish at the next top with the last phase.&nbsp;
+Well, **real estate runs in cycles, and those cycles are patterned on historical numbers.** Though we never know what will happen for sure, it gives us a good idea of what to look for. Real estate cycles run through four main phases; when a new cycle begins, the first phase will start out on a “top” and finish at the next top with the last phase.&nbsp;
 
 From one peak to the next, a real estate cycle will routinely last around seven years. In Denver, it can be argued that our last peak arrived somewhere between late 2005 and mid-2006. That’s just shy of 14 years of a positive cycle!&nbsp;
 
