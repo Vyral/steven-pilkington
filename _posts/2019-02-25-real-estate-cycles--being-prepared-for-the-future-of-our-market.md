@@ -30,8 +30,6 @@ In short, this spelled good news for almost every homeowner in 2018. Now, let’
 
 **Economists’ opinions on what this year might bring are certainly not unanimous—some tell us that the Denver real estate market could be flat in 2019, while others assert that we might experience a 3% to 4% upsurge in value.** No matter which scenario unfolds, good news could be on the way.&nbsp;
 
-{% include pullquote.html %}
-
 “How can both outcomes potentially be good news?” you may ask.&nbsp;
 
 Well, **real estate runs in cycles, and those cycles are patterned on historical numbers.** Though we never know what will happen for sure, it gives us a good idea of what to look for. Real estate cycles run through four main phases; when a new cycle begins, the first phase will start out on a “top” and finish at the next top with the last phase.&nbsp;
