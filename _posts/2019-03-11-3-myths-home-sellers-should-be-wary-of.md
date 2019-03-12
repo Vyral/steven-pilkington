@@ -22,7 +22,7 @@ youtube_code: F0T_o8vLQwo
 
 {% include youtube.html %}
 
-I’m here today to shatter some common myths that home sellers are often fooled by. There are three, in particular, that I’d like to debunk for you sellers out there.
+I’m here today to shatter some common myths that home sellers are often fooled by. There are three, in particular, that I’d like to debunk for you sellers out there:
 
 **1. You can do it on your own.** Because we all know our own home more intimately than anyone else, some sellers think they’re better off going the For Sale by Owner (FSBO) route. Most sellers have an emotional attachment to their home, and therein lies the problem with this approach.&nbsp;
 
