@@ -30,7 +30,7 @@ A professional Realtor can help by giving you an emotionally removed perspective
 
 {% include pullquote.html %}
 
-**2. You know exactly what your home is worth.** As we know, online home estimate tools are in abundance. If you look a little closer, the fine print will tell you that most of those estimates can be off by as much as 15% to 20%, up or down. Unless an estimate that is this wide of the mark is okay with you, I wouldn't rely too heavily on online estimate calculators.
+**2. You know exactly what your home is worth.** As we know, online home estimate tools are in abundance. If you look a little closer, the fine print will tell you that most of those estimates can be off by as much as 15% to 20%, up or down. Unless an estimate that is this wide off the mark is okay with you, I wouldn't rely too heavily on online estimate calculators.
 
 And certain factors like square footage, conditions, the overall landscape of the market, etc., often go unaccounted for by a non-professional. Do your homework and speak to a professional so you don’t run the risk of leaving thousands of dollars on the table.&nbsp;
 
