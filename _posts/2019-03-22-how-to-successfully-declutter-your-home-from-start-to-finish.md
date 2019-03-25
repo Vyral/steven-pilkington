@@ -27,7 +27,7 @@ Decluttering has become more and more popular with homeowners, so today I’ll f
 
 {% include pullquote.html %}
 
-**Sort through your clothes first.** If you’re like me, you have clothes that are seasonally specific, and some of those clothes have sat untouched in your closet for years. These should probably be the first to go. Other items could include books, boxed up papers and documents, old mementos, miscellaneous items, and, lastly, items that summon feelings of nostalgia.
+**Sort through your clothes first.** If you’re like me, you have clothes that are seasonally specific, and some of those clothes have sat untouched in your closet for years. These should probably be the first to go. Other items could include books, boxed-up papers and documents, old mementos, miscellaneous items, and, lastly, items that summon feelings of nostalgia.
 
 A lot of times, we rationalize that we might need an item in the future, which only further contributes to clutter. For example, I recently discovered that my neighbor has a lot of the same tools that I might need, so now I check to see if I can borrow from them before going out and buying it. After all, it’s a lot easier to borrow something for an hour than to buy it and find a place to store it forever.
 
