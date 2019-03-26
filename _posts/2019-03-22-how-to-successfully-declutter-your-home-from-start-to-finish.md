@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Successfully Declutter Your Home From Start to Finish
-date: 2019-03-22 16:25:49
+date: 2019-03-22 16:25:00
 tags:
   - Real Estate
 excerpt: Today we’ll talk about best practices for decluttering your home.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/steven-pilkington-ssdecluttering-email.jpg
-youtube_code: rohRyWcBiFA
+youtube_code: jwH70Fnct-g
 ---
 
 {% include youtube.html %}
